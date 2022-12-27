@@ -1,0 +1,23 @@
+{
+  "name": "rubylock",
+  "version": "1.0.0",
+  "description": "Summary of answers obtained from asking ChatGPT how to implement optimistic and pessimistic exclusions in Ruby.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YutoUrushima/RubyLock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YutoUrushima/RubyLock/issues"
+  },
+  "homepage": "https://github.com/YutoUrushima/RubyLock#readme",
+  "dependencies": {
+    "@prettier/plugin-ruby": "^3.2.2"
+  }
+}
