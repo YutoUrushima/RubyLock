@@ -1,6 +1,8 @@
 # RubyLock
 
-Summary of answers obtained from asking ChatGPT how to implement optimistic and pessimistic exclusions in Ruby.
+Describe your findings and experiments with locking in Ruby.
+Summarize answers to questions about optimistic and pessimistic exclusions to ChatGPT.
+
 
 ChatGPT: https://chat.openai.com/chat</br>
 OpenAI: https://openai.com/
