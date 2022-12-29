@@ -1,10 +1,10 @@
-# 仮想共有リソース
+# Virtual Shared Resources
 class SharedResources
-  attr_accessor :version, :is_changed
+  attr_accessor :version, :changed_value
   def initialize(name = "shared_resource", version = 1)
     @name = name
     @version = version
-    @is_changed = false
+    @changed_value = nil
   end
   def is_stale?(version)
     return @version > version
